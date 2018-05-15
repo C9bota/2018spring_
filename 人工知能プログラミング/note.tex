@@ -1,0 +1,65 @@
+\documentclass{jsarticle}
+\begin{document}
+\title{経済学}
+\author{久保田知恵}
+\maketitle
+
+\section{第4回}
+\subsection{多層ニューラルネットワーク概要}
+\subsection{誤差逆伝播法}
+中間層の微分が大変なのを解決する手段。
+？損失関数：回帰の損失関数は二条誤差
+？多クラス分類の損失関数はクロスエントロピー
+損失関数（出力、教師信号）を微分する手段として、合成関数の微分の方法を使い、
+後ろの層から微分した値の和を使って後ろから前に伝播していくことで、計算を簡単にする。
+？一番後ろからどんどん帰っていく？
+\subsection{minibatch}
+学習するときに、データを何個ずつ流すたらいいだろうかを考えた際、
+\begin{itemize}
+  \item バッチ処理：全データ
+  \item 逐次処理:一個ずつ
+  \item minibatch
+  \item largebatch
+
+\end{itemize}
+\subsection{確率的勾配降下法}
+バッチ処理で計算する場合、一度loss関数が底をついた場合、戻ってくる方法がない。
+初期値に依存してしまう。最適化するために、ミニバッチ処理により勾配空間を変化
+させることによって、局所解に落ち着くのを防ぐ。
+
+\subsection{正則化}
+\subparagraph{L2正則化}
+各次元に近い
+\subparagraph{L1正則化}
+特定の次元に近い
+
+\subsection{制限付きボルツマシン}
+
+\subsection{Dropout}
+ある確率でランダムでユニットをなかったことにしながら学習する
+
+
+
+
+
+L1・L2 正則化
+勾配消失問題
+制限付きボルツマンマシン (RBM)・AutoEncorder・Dropout
+ReLU・Batch Normalization
+Momentum・Adam
+シグモイド関数を使ってニューロンの発火を表している。ステップ関数ではないのは、微分する関係。
+\subsection{勾配降下法}
+
+
+\section{}
+\section{}
+\section{}
+\section{}
+\section{}
+\section{}
+\section{}
+\section{}
+\section{}
+
+
+\end{document}
