@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.11.21)  18 APR 2018 12:49
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.11.21)  30 MAY 2018 12:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -105,14 +105,19 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
  [1
 
-] [2] (./note.aux) ) 
+]
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 71.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 71.
+ [2] [3] [4] (./note.aux) ) 
 Here is how much of TeX's memory you used:
- 477 strings out of 493653
- 5156 string characters out of 6148873
+ 479 strings out of 493653
+ 5177 string characters out of 6148873
  64428 words of memory out of 5000000
- 4130 multiletter control sequences out of 15000+600000
- 13517 words of font info for 59 fonts, out of 8000000 for 9000
+ 4131 multiletter control sequences out of 15000+600000
+ 14103 words of font info for 62 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  23i,6n,20p,156b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on note.dvi (2 pages, 4128 bytes).
+Output written on note.dvi (4 pages, 7612 bytes).

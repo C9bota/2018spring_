@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1526004046 "note.dvi" "note.pdf" "note" 1526004046
+["dvipdf"] 1526004046 "note.dvi" "note.pdf" "note" 1527745870
   "note.dvi" 1526004046 6704 5782bd68e1112a45d118e3b7653ea452 "latex"
   (generated)
   "note.pdf"
-["latex"] 1526004045 "note.tex" "note.dvi" "note" 1526004046
+["latex"] 1526004045 "note.tex" "note.dvi" "note" 1527745870
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1480098698 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1480098698 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -28,8 +28,8 @@
   "/usr/local/texlive/2017/texmf-var/web2c/eptex/platex.fmt" 1511261535 4345397 3b78fff298e7ac590387a5132f75ca5e ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "note.aux" 1526004046 1350 ce91befd369e16296772ea1fdfd436b6 ""
-  "note.tex" 1526004045 4683 575daa312604e682d8d9c370f7baff29 ""
+  "note.tex" 1527745870 4683 575daa312604e682d8d9c370f7baff29 ""
   (generated)
-  "note.dvi"
   "note.log"
+  "note.dvi"
   "note.aux"
